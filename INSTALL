@@ -1,0 +1,5 @@
+
+
+1. copier LocalSetting-example.php vers LocalSettings.php
+
+2. Configurer client_id, secret_id et url_callback dans le fihcier LocalSettings.php
